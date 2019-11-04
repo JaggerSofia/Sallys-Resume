@@ -11,3 +11,24 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, "Courier New",
     monospace;
 }
+
+* {
+  background-color: palegoldenrod;
+}
+
+.edu, .emp, .con {
+  border: 3px solid goldenrod;
+  margin-bottom: 20px;
+}
+
+.his {
+  font-size: 18px;
+}
+
+h2, .contact {
+  font-size: 30px;
+}
+
+h1 {
+  font-size: 40px;
+}
